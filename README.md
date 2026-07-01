@@ -31,6 +31,4 @@ Python, pandas, numpy, matplotlib
 - Implement a complementary filter to fuse accelerometer and gyroscope
   data and reduce yaw drift
 - Apply to real vehicle test data from a proving ground test campaign
-
-quantified gyroscope drift at 0.15 degrees/second — connecting to the
-sensor fusion problem solved by Kalman filtering in automotive ESC systems"
+  THANK YOU
